@@ -22,7 +22,11 @@ Aplikacja do rejestracji zamówień w systemie SAP.
 - ALV
 
 ## Projekt 2
-Raport ALV do podglądu zamówień.<img width="584" height="204" alt="WYNIK Z KLIENTA + SUMA" src="https://github.com/user-attachments/assets/03750504-fd78-4250-b1f0-42768264f673" />
+Raport ALV do podglądu zamówień
+
+
+
+.<img width="584" height="204" alt="WYNIK Z KLIENTA + SUMA" src="https://github.com/user-attachments/assets/03750504-fd78-4250-b1f0-42768264f673" />
 <img width="661" height="191" alt="WYBIERANIE ZAMÓWIEŃ NA DANYM KLIENCIE" src="https://github.com/user-attachments/assets/b98c498a-f1a2-448a-87ad-8d63f490bca4" />
 <img width="577" height="355" alt="WSZYSTKIE ALV" src="https://github.com/user-attachments/assets/67007a05-4061-4a7b-a7aa-f8aa7629cb58" />
 <img width="531" height="368" alt="Tworzenie zamóienia - dane dodane" src="https://github.com/user-attachments/assets/259e35d6-52cc-4790-b1eb-7d94ffd8acb2" />
